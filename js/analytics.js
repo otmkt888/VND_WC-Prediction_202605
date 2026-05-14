@@ -4,7 +4,7 @@
  * Replace console.log with GA4 gtag() in production.
  */
 (function () {
-  const JOIN_URL = 'https://www.12bet.com/vn/join';
+  const JOIN_URL = 'https://219go.lomget.com/mp5atkosnimt';
 
   function track(event, params = {}) {
     console.log('[Analytics]', { event, ...params, ts: new Date().toISOString() });
